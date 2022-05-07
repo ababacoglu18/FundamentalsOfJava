@@ -3,6 +3,9 @@ import java.util.Scanner;
 public class fordongusu {
     public static void main(String[] args){
 
+
+
+
 int i = 0;
 int j = 10;
      for (; i < 10 && j > 0; i++,j--){         //Don't forget ; in first step.
