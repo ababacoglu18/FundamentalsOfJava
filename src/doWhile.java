@@ -21,7 +21,7 @@ int i = 0;
             i++;
 
         }
-
+//ss
 
         // Girilen sayinin rakamlari toplami..
 
