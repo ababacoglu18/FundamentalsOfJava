@@ -4,7 +4,7 @@ public class InterestCalculator {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("************************************");
-        System.out.println("Welcome to Pekao Bank Interest Calculator. Today's rate % 6");
+        System.out.println("Welcome to Bank Pekao Interest Calculator. Today's rate % 6");
         System.out.println("************************************");
 
         int principal;
