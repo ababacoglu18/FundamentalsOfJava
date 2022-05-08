@@ -20,7 +20,7 @@ public class isArmstrong {
 
 
         int number = scanner.nextInt();
-        System.out.println("Enter how many digits the number is, because I dont know how to. ");
+        System.out.println("Enter how many digits the number is, because I dont know how to do. ");
         int numberOfDigits = scanner.nextInt();
 
         int temporaryNumber = number;
