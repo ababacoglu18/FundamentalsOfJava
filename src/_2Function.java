@@ -21,7 +21,7 @@ public class _2Function {
 
 
         public static void main(String[] args){
-
+        hi();
         factorial();
 
 
