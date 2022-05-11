@@ -1,4 +1,5 @@
-public class FindPrimeNumber1to1000 {
+public class _3_1FindPrimeNumber1to1000 {
+
 
 
     public static boolean isPrimeNumber(int number){
@@ -11,12 +12,12 @@ public class FindPrimeNumber1to1000 {
         return true;
     }
     public static void main(String[] args){
-   for(int i = 2; i<=1000; i++){
+        for(int i = 2; i<=1000; i++){
 
-   if (isPrimeNumber(i)){
-       System.out.println(i);
+            if (isPrimeNumber(i)){
+                System.out.println(i);
 
-   }
-}
+            }
+        }
     }
 }
