@@ -33,6 +33,9 @@ public class _2_5LocalVariables {
 
             sum(10,20,30);  //
           // System.out.println(z);   //no funcionará porque la variable z está definida solo para la función de suma
+
+
+
         }
     }
 }
